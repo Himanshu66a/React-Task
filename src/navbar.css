@@ -1,0 +1,28 @@
+body{
+    background-color:  #ea4f4c;
+}
+.navbar{
+    height:10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.navbar link{
+    text-decoration: none;
+    font-size: 3rem;
+    color: white;
+   
+}
+.links{
+    color: white;
+    font-size: 2rem;
+
+}
+/* Gradient Box-shadow */
+.img{
+    width: 20%;
+    height: 80%;
+}
